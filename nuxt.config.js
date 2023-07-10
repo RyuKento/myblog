@@ -48,7 +48,7 @@ export default {
     dir : "docs"
   },
   router :{
-    base : "/myblog"
+    base : "/myblogweb"
   }
 }
 
